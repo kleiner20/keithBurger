@@ -1,0 +1,53 @@
+.chirp {
+  padding: 10px;
+  margin: 10px;
+  background-color: #e8f9ff;
+}
+
+.cool-font {
+  font-family: Shrikhand, cursive;
+  font-size: 24px;
+  color: #de402f;
+}
+
+.jumbotron {
+  color: #de402f;
+  background-color: #dbb053;
+}
+
+input,
+textarea {
+  margin: 20px;
+}
+
+.btn {
+  margin: 10px;
+  /* font-family: Shrikhand, cursive; */
+  color: white;
+  background-color: #1da1f2;
+  border-color: #de402f;
+  border-style: solid;
+  border-width: 2px;
+}
+
+p {
+  margin: 0;
+  font-size: 24px;
+}
+body {
+  background-color: #dbb053;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: Shrikhand, cursive;
+  font-size: 36px;
+  color: #de402f;
+}
+h1{
+  font-family: Shrikhand, cursive;
+  font-size: 36px;
+  color: #de402f;
+}
