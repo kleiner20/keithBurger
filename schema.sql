@@ -1,7 +1,7 @@
-CREATE DATABASE chirpy;
-USE chirpy;
+CREATE DATABASE keithburger;
+USE keithburger;
 
-CREATE TABLE `chirps` (
+CREATE TABLE `orders` (
   `id` Int( 11 ) AUTO_INCREMENT NOT NULL,
   `author` VARCHAR( 255) NOT NULL,
   `body` VARCHAR( 255 ) NOT NULL,
